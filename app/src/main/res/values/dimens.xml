@@ -1,0 +1,68 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="item_horizontal_margin">10dp</dimen>
+    <dimen name="item_vertical_margin">10dp</dimen>
+
+    <dimen name="item_main_margin">19dp</dimen>
+    <dimen name="item_main_margin_top">22dp</dimen>
+
+
+    <dimen name="item_main_width">120dp</dimen>
+    <dimen name="item_main_height">115dp</dimen>
+    <dimen name="icon_main_width">72dp</dimen>
+
+    <dimen name="icon_width">60dip</dimen>
+    <dimen name="icon_height">60dip</dimen>
+    <dimen name="icon_padding">4dp</dimen>
+    <dimen name="card_height">250dip</dimen>
+    <dimen name="text_size">18sp</dimen>
+
+    <dimen name="text_size_order_message">13sp</dimen>
+    <dimen name="heigh">71dp</dimen>
+    <dimen name="et_padding_left">290dp</dimen>
+    <dimen name="et_padding_right">4dp</dimen>
+    <dimen name="et_padding_top">7dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">200dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="title">18dp</dimen>
+    <dimen name="content">16dp</dimen>
+
+    <dimen name="contentMin">15dp</dimen>
+
+    <dimen name="label">16dp</dimen>
+    <dimen name="values">12dp</dimen>
+
+    <dimen name="sync">12dp</dimen>
+
+    <dimen name="labelX">17dp</dimen>
+    <dimen name="valuesX">16dp</dimen>
+
+    <dimen name="space_line">8dp</dimen>
+    <dimen name="space_line_min">5dp</dimen>
+
+    <dimen name="img_width">143dp</dimen>
+    <dimen name="img_height">152dp</dimen>
+    <dimen name="textview_width">263dp</dimen>
+    <dimen name="textview_widht_dos">193dp</dimen>
+    <dimen name="textview_height">57dp</dimen>
+    <dimen name="textsize">28dp</dimen>
+    <dimen name="textsizedos">18dp</dimen>
+
+    <dimen name="edittext_width">340dp</dimen>
+    <dimen name="edittext_height">65dp</dimen>
+    <dimen name="spinner">135dp</dimen>
+    <dimen name="spinner_dos">183dp</dimen>
+    <dimen name="textInputLayout">242dp</dimen>
+    <dimen name="textInputLayoutDos">223dp</dimen>
+    <dimen name="textInputLayoutD">239dp</dimen>
+    <dimen name="textD">161dp</dimen>
+
+
+
+</resources>

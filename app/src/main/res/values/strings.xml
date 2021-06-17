@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Signos Vitales</string>
+    <string name="urlGen">https://api-phantomx.veris.com.ec/general</string>
+    <string name="urlSeg">https://api-phantomx.veris.com.ec/seguridad</string>
+</resources>

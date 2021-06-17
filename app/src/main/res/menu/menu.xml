@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <item
+        android:id="@+id/cerrar_sesion"
+        android:orderInCategory="100"
+        android:title="Cerrar Sesión"
+        android:icon="@drawable/logout"
+        app:showAsAction="always" />
+
+
+
+
+</menu>

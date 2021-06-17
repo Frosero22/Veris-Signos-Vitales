@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_horizontal_margin">18dp</dimen>
+
+    <dimen name="item_main_margin">40dp</dimen>
+    <dimen name="item_main_margin_top">28dp</dimen>
+    <dimen name="et_padding_left">430dp</dimen>
+
+    <dimen name="item_main_width">140dp</dimen>
+    <dimen name="item_main_height">135dp</dimen>
+    <dimen name="icon_main_width">95dp</dimen>
+
+</resources>

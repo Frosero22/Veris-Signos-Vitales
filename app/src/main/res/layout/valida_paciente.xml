@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:ignore="MissingDefaultResource">
+
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="80dp"
+      android:background="@color/colorPrimario"
+      android:gravity="center"
+      android:text="Ingresa Identificación del Paciente"
+      android:textColor="@color/white"
+      android:textStyle="bold"
+      android:textSize="25dp"
+      android:padding="8dp" />
+
+  <EditText
+      android:id="@+id/txtObservacionHC"
+      android:layout_width="349dp"
+      android:layout_height="72dp"
+      android:layout_margin="42dp"
+      android:background="@drawable/forget"
+      android:gravity="center"
+      android:hint="Identificación"
+      android:inputType="textCapCharacters"
+      android:textColor="@color/colorPrimario"
+      android:textColorHint="@color/colorSecundario"
+      android:textSize="18sp" />
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal">
+
+
+
+    <Button
+        android:id="@+id/btnBuscar"
+        android:layout_width="99dp"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="6dp"
+        android:layout_weight="1"
+        android:background="@drawable/button_plano"
+        android:text="Aceptar"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/btnCancelar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_weight="1"
+        android:background="@drawable/button_plano"
+        android:text="Cancelar"
+        android:textSize="20dp"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white" />
+  </LinearLayout>
+
+
+</LinearLayout>
